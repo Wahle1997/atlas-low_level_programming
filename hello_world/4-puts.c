@@ -1,7 +1,11 @@
 #include <stdio.h>
 
 /**
- *Using put function
+ * main - Entry point of the program
+ * 
+ * Description: Using put function
+ *
+ * Return: Always 0 (success) 
  */
 int main(void)
 {
