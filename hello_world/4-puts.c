@@ -2,6 +2,10 @@
 #Use the function puts
 
 #include <stdio.h>
+
+/**
+ *Using put function
+ */
 int main(void)
 {
         puts("\"Promming is like building a multilingual puzzle");
