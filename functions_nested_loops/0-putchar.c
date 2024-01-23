@@ -1,8 +1,14 @@
-#include "main.h"
+/*
+ * File: 0-holberton.c
+ *
+ */
+
+#include "_putchar.h"
 
 /**
- * main -  prints _putchar, followed by a new line
- * Return: Always 0 (Success)
+ * main - Prints "_putchar" followed by a new line.
+ *
+ * Return: Always 0.
  */
 int main(void)
 {
